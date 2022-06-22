@@ -1,2 +1,7 @@
-# conhecimentos-de-programacao
-Uma curta apresentação dos meus conhecimentos em programação e alguns códigos
+# Meu conhecimento de Programação (Atualizado em 21-Jun-2022): :smile:
+Uma curta apresentação dos meus conhecimentos em programação e alguns códigos ​:thumbsup:
+
+ - Python - Intermediário
+ - JavaScript - Intermediário
+ - JAVA - Básico
+ - C++ - Básico
