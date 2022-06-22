@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="template_TAD_fila_projeto.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="85" Column="1"/>
+		</File>
+		<File Name="template_TAD_fila_projeto.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="4" Column="21"/>
+		</File>
+	</Files>
+</Layout>

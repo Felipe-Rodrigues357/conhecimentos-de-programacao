@@ -1,0 +1,10 @@
+nome = input('Escreva o seu nome completo: ')
+print('Seu nome em letras maíusculas: {}'.format(nome.upper()))
+print('Seu nome em letras minúsculas: {}'.format(nome.lower()))
+espacos = nome.count(' ')
+chars = len(nome) - espacos
+print('Seu nome possui {} letras...'.format(chars))
+# OU print('Seu nome tem ao todo {} letras'.format(len(nome)-nome.count(' ')))
+primeironome = nome.split()
+print('Seu primeiro nome é {} e possui {} letras...'.format(primeironome[0], len(primeironome[0])))
+# OU print('Seu primeiro nome tem {} letras'.format(nome.find(' ')))
